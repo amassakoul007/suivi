@@ -65,7 +65,7 @@
     "note": "Génie Chimique, Minéralogie et Biotechnologie. Bac scientifique requis. Université Mohammed VI Polytechnique."
   },
   {
-    "nom": "UM6P — SAP+D (Architecture & Design)",
+    "nom": "UM6P — SAP+D (Architecture)",
     "cat": "Architecture",
     "villes": [
       "Benguerir"
@@ -73,9 +73,9 @@
     "ouv": null,
     "clo": "2026-04-20",
     "lien": "https://www.um6p.ma/sapd",
-    "modalite": "Sélection sur dossier + portfolio",
-    "concours": null,
-    "note": "Architecture, urbanisme, design. Dossier + portfolio artistique. Université Mohammed VI Polytechnique."
+    "modalite": "Sélection + Écrit + Oral",
+    "concours":"2026-05-09",
+    "note": "Architecture"
   },
   {
     "nom": "UM6P — SASE (Applied Sciences & Business)",
