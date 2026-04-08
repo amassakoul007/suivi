@@ -9,11 +9,11 @@
     "clo": "2026-06-24",
     "lien": "https://www.um6p.ma/fms",
     "modalite": "Sélection sur dossier",
-    "concours": null,
-    "note": "Médecine, Pharmacie, Soins Infirmiers, Kinésithérapie. Université Mohammed VI Polytechnique. Dossier en ligne sur le site UM6P."
+    "concours": Pas encore affiché,
+    "note": "Médecine, Pharmacie, Soins Infirmiers, Kinésithérapie."
   },
   {
-    "nom": "UM6P — EMINES (École Mines & Énergie)",
+    "nom": "UM6P — EMINES (School of industrial management)",
     "cat": "Ingénierie",
     "villes": [
       "Benguerir"
@@ -22,8 +22,8 @@
     "clo": "2026-06-01",
     "lien": "https://www.emines-ingenieur.org",
     "modalite": "Sélection sur dossier",
-    "concours": null,
-    "note": "Sciences & Technologie. Génie des mines, énergie, matériaux. Université Mohammed VI Polytechnique."
+    "concours": pas encore affiché,
+    "note": "Sciences & Technologie. Génie des mines, énergie, matériaux."
   },
   {
     "nom": "UM6P — Computer Sciences",
