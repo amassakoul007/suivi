@@ -156,8 +156,8 @@ function render() {
     if (days !== null) {
       if      (days < 0)   cd = '<span class="countdown expired">Expiré</span>';
       else if (days === 0) cd = '<span class="countdown urgent">Aujourd\'hui !</span>';
-      else if (days <= 7)  cd = `<span class="countdown urgent">${days} j</span>`;
-      else if (days <= 14) cd = `<span class="countdown warning">${days} j</span>`;
+      else if (days <= 5)  cd = `<span class="countdown urgent">${days} j</span>`;
+      else if (days <= 7) cd = `<span class="countdown warning">${days} j</span>`;
       else                 cd = `<span class="countdown ok">${days} j</span>`;
     }
     const col6 = `<td class="col-delai">${cd}</td>`;
