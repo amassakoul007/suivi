@@ -34,7 +34,7 @@
     "ouv": null,
     "clo": "2026-06-24",
     "lien": "https://www.um6p.ma/cs",
-    "modalite": "Concours",
+    "modalite": "Sélection + concours",
     "concours": null,
     "note": "Informatique, Intelligence Artificielle, Data Science"
   },
@@ -60,7 +60,7 @@
     "ouv": null,
     "clo": "2026-06-24",
     "lien": "https://www.um6p.ma/isti",
-    "modalite": "Sélection sur dossier",
+    "modalite": "Sélection + concours",
     "concours": null,
     "note": "Génie Chimique, Minéralogie et Biotechnologie. Bac scientifique requis. Université Mohammed VI Polytechnique."
   },
@@ -73,7 +73,7 @@
     "ouv": null,
     "clo": "2026-04-20",
     "lien": "https://www.um6p.ma/sapd",
-    "modalite": "Sélection sur dossier + portfolio",
+    "modalite": "Sélection + concours",
     "concours": null,
     "note": "Architecture, urbanisme, design. Dossier + portfolio artistique. Université Mohammed VI Polytechnique."
   },
@@ -86,7 +86,7 @@
     "ouv": null,
     "clo": "2026-04-20",
     "lien": "https://www.um6p.ma/sase",
-    "modalite": "Sélection sur dossier",
+    "modalite": "Sélection + concours",
     "concours": null,
     "note": "Sciences appliquées et business. Pôle Science & Technologie UM6P. Université Mohammed VI Polytechnique."
   },
@@ -99,8 +99,8 @@
     "ouv": null,
     "clo": "2026-04-20",
     "lien": "https://www.um6p.ma/shbm",
-    "modalite": "Sélection sur dossier + entretien",
-    "concours": null,
+    "modalite": "Sélection + concours",
+    "concours": "26 Avril 2026",
     "note": "Hôtellerie, management, restauration. Toutes séries bac. Entretien de motivation. Université Mohammed VI Polytechnique."
   },
   {
@@ -112,9 +112,9 @@
     "ouv": null,
     "clo": "2026-03-15",
     "lien": "https://www.um6p.ma/fgses",
-    "modalite": "Sélection sur dossier + entretien",
+    "modalite": "Sélection + concours",
     "concours": null,
-    "note": "Économie, Sciences Politiques, Relations Internationales. Toutes séries bac. Dossier + entretien oral. Université Mohammed VI Polytechnique."
+    "note": "Économie, Sciences Politiques, Relations Internationales. Toutes séries bac. Dossier + entretien oral."
   },
   {
     "nom": "FAR — Forces Armées Royales : Officiers (ARM, ERA, ERN)",
@@ -156,8 +156,8 @@
     "clo": "2026-05-29",
     "lien": "https://recrutement.far.ma",
     "modalite": "Sélection + écrit + tests médicaux + phys.",
-    "concours": "Mai 2026",
-    "note": "Bac Maths/SVT/PC. Âge 18-22 ans, taille ≥1,65m. Sélection + dossier médical + tests physiques + psycho. Via recrutement.far.ma"
+    "concours": null,
+    "note": "Bac Maths/SVT/PC. Âge 18-22 ans. Sélection + test médical + tests physiques."
   },
  {
   "nom": "Forces Auxiliaires — Officiers",
