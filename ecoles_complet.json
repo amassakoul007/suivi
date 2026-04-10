@@ -134,11 +134,11 @@
   {
     "nom": "ENSA — Écoles Nationales des Sciences Appliquées",
     "cat": "Ingénierie",
-    "villes": ["Tanger", "Tétouan", "Agadir", "Marrakech", "Béni Mellal", "Safi", "Khouribga", "Al Hoceima", "El Jadida", "Berrechid", "Oujda", "Fès", "Kénitra", "Laâyoune"],
+    "villes": ["Plusieurs villes"],
     "ouv": null,
     "clo": null,
     "lien": "https://www.cursussup.gov.ma",
-    "modalite": "Sélection + écrit (CNC)",
+    "modalite": "Sélection + écrit",
     "concours": null,
     "avis": null,
     "note": "Bac Maths/PC/Tech. Sélection (25% régional + 75% national). 14 villes."
@@ -153,7 +153,7 @@
     "modalite": "Sélection + écrit",
     "concours": null,
     "avis": null,
-    "note": "Bac Maths/PC/Tech. Sélection (25% régional + 75% national). 3 villes."
+    "note": "Bac SM/PC/Tech. Sélection (25% régional + 75% national)."
   },
   {
     "nom": "EST — Écoles Supérieures de Technologie",
