@@ -176,19 +176,19 @@
     "lien": "https://recrutement.far.ma",
     "modalite": "Sélection + écrit + tests médicaux + oral phys.",
     "concours": null,
-    "avis": null,
+    "avis": "avis/officiers_2026.pdf",
     "note": "Bac Maths/PC (ERA/ERN) ou toutes séries (ARM). Âge 18-22 ans, célibataire. Sélection sur moy bac."
   },
   {
     "nom": "FAR — Forces Armées Royales : Sous-Officiers (Forces terrestres, ERA, ERN)",
     "cat": "Militaire",
-    "villes": ["Divers centres (Forces terrestres)", "Marrakech (ERA)", "Casablanca (ERN)"],
+    "villes": ["Divers centres"],
     "ouv": null,
     "clo": "2026-05-29",
     "lien": "https://recrutement.far.ma",
     "modalite": "Sélection + tests médicaux + phys.",
     "concours": null,
-    "avis": null,
+    "avis": "avis/sous_officiers_2026.pdf",
     "note": "Bac scientifique. Âge 18-23 ans (16 août)."
   },
   {
@@ -200,7 +200,7 @@
     "lien": "https://recrutement.far.ma",
     "modalite": "Sélection + écrit + tests médicaux + phys.",
     "concours": null,
-    "avis": null,
+    "avis": "avis/erssm_2026.pdf",
     "note": "Bac SM/SVT/PC. Âge 18-22 ans."
   },
   {
