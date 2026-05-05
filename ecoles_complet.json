@@ -239,4 +239,76 @@
     "avis": "avis/ESBA_2026.pdf",
     "note": "Envoi du dossier d'inscription par voie postale."
   }
+  [
+  {
+    "nom": "IFTL — Institut de Formation aux Métiers du Transport et de la Logistique",
+    "cat": "Transport & Logistique",
+    "villes": [
+      "Nouaceur (Casablanca)"
+    ],
+    "ouv": null,
+    "clo": "2026-06-30",
+    "lien": "https://iftl.ma/inscription-en-ligne/",
+    "modalite": "Sélection sur dossier + concours",
+    "concours": "Après résultats Bac",
+    "avis": null,
+    "note": "Technicien Spécialisé Bac+2 : Logistique, Transport, E-commerce, Maritime. Frais dossier : 150 DH. Toutes séries bac."
+  },
+  {
+    "nom": "OFPPT — Technicien Spécialisé",
+    "cat": "Formation Professionnelle",
+    "villes": [
+      "Plusieurs villes"
+    ],
+    "ouv": "2026-05-06",
+    "clo": "2026-07-27",
+    "lien": "https://www.myway.ac.ma/fr",
+    "modalite": "sélection",
+    "concours": "Après clôture des dossiers",
+    "avis": null,
+    "note": "Nombreuses filières disponibles dans tous les secteurs."
+  },
+  {
+    "nom": "OFPPT — Technicien (Niveau Bac)",
+    "cat": "Formation Professionnelle",
+    "villes": [
+      "Plusieurs villes"
+    ],
+    "ouv": "2026-05-06",
+    "clo": "2026-07-07",
+    "lien": "https://www.myway.ac.ma/fr",
+    "modalite": "Concours écrit",
+    "concours": "Après clôture des dossiers",
+    "avis": null,
+    "note": "Niveau 1ère Bac requis. Durée 2 ans."
+  },
+  {
+    "nom": "OFPPT — Qualification (Niveau 3ème)",
+    "cat": "Formation Professionnelle",
+    "villes": [
+      "Plusieurs villes"
+    ],
+    "ouv": "2026-05-06",
+    "clo": "2026-06-09",
+    "lien": "https://www.myway.ac.ma/fr",
+    "modalite": "Concours écrit",
+    "concours": "Après clôture des dossiers",
+    "avis": null,
+    "note": "Niveau 3ème année collège requis."
+  },
+  {
+    "nom": "IFMIA Casablanca — Technicien Spécialisé (Industrie Automobile)",
+    "cat": "Formation Professionnelle",
+    "villes": [
+      "Casablanca"
+    ],
+    "ouv": null,
+    "clo": "2026-07-16",
+    "lien": "https://www.ifmia-sa.ma",
+    "modalite": "Présélection sur dossier + concours écrit",
+    "concours": "21 et 22 Juillet 2026",
+    "avis": "avis/ifmia-casa-tech-spécialisé.png",
+    "note": "4 filières : Génie Mécanique · Systèmes Automatisés · Maintenance Automobile · Électromécanique. Résultats présélection : 17/07. Bac scientifique/technique. Email : inscription@ifmia-sa.ma"
+  }
+]
 ]
